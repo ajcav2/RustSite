@@ -20,6 +20,7 @@ fn app() -> Html {
 
     html! {
         <div>
+        <h1>{"Hello, world! This website was written entirely in Rust 🦀"}</h1>
         <button {onclick} >{" +1 "}</button>
         <p>{state.value}</p>
         </div>

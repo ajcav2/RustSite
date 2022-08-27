@@ -10,13 +10,14 @@ div {
 }
 
 p {
-  font-size: 15em;
+  font-size: 9em;
+  margin-top: 10px;
 }
 
 button {
-  width: 50%;
-  height: 500px;
-  font-size: 18em;
+  width: 35%;
+  height: 250px;
+  font-size: 9em;
   font-family: "Courier New", Courier, monospace;
   color: white;
   text-align: center;
